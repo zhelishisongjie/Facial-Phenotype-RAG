@@ -9,7 +9,7 @@
 - [Overview](#overview)
 - [Knowldege Graph Usage](#knowledge-graph-usage)
 - [Codes Requirements](#codes-requirements)
-- [Requirements](#requirements)
+- [Model Weight](#model-weights)
 - [Citation](#citation)
  
 ## Overview   
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 
 
-### Model weights
+## Model weights
 Our NER model weight is [here](https://huggingface.co/hfchloe/FP_NER/tree/main), please put it in ./results/checkpoint directory
 
 
