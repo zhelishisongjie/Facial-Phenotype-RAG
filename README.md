@@ -15,7 +15,7 @@
 ## Overview   
 This is the official PyTorch implementation of the paper __"Graph Retrieval-Augmented Large Language Models for Facial Phenotype Associated Rare Genetic Disease"__.
 
-<br/>
+
 ![Teaser image](./figures/pipeline.png)
 
 
