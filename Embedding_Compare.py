@@ -10,7 +10,7 @@ from karateclub import Node2Vec
 from karateclub import deepwalk
 
 
-with open('all.json', encoding='utf-8-sig') as f:
+with open('.KG/FPKG.json', encoding='utf-8-sig') as f:
   data = json.load(f)
 
 G = nx.Graph()
